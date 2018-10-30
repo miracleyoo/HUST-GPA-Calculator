@@ -1,0 +1,2 @@
+credit: 2.00, grade: 77.0, point: 3.2
+credit: 4.00, grade: 68.0, point: 2.3
