@@ -9,7 +9,7 @@ def compute(sum, sum_credit, fo):
     fo.write("\n==> Your GPA is:%.3f"%result)
     fo.close()
 
-print("\n==> Please input float to continue or \n==> Input a 'q' to quit!")
+print("\n==> Please input a number to continue or \n==> Input a 'q' to quit!")
 sum_credit = 0
 sum = 0
 fo = open("GPA_Report_%s.txt"%time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime()), "w+")
