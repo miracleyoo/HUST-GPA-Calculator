@@ -5,3 +5,7 @@
 - 你可以在程序运行的任意时刻输入'q'退出。
 - 如果帮到你的忙了请右上角支持下~
 - 如果有bug或是有希望添加的功能请issue反馈
+
+运行效果图：
+
+![image-20181030094241914](https://ws1.sinaimg.cn/large/006tNbRwly1fwq074fly7j30ey0aydgp.jpg)

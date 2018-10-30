@@ -1,3 +1,7 @@
+# coding: utf-8
+# Author: Zhongyang Zhang
+# Email : mirakuruyoo@gmail.com
+
 import time
 def compute(sum, sum_credit, fo):
     result = sum/sum_credit
